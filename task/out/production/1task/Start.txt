@@ -1,0 +1,2 @@
+echo "Start application"
+set DIR_PROJECT=C:\Users\Igor\IdeaProjects\task\out\production\1task
